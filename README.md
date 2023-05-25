@@ -14,7 +14,7 @@ And we dont need to train transformer with 20 billion parameters to get informat
 We can extract any data about objects and states with questions.
 
 
-## What with rules and so on?
+## What with rules (functions) and so on?
 
 
 We have defined primitives (with parameters). 
@@ -27,6 +27,9 @@ So we can build a basic abstractions (sizes/forces/etc), rules, based on json, a
 Also, we need to add some functions that describe relations between objects (size, positions, and other connections). 
 And detect them. Note that we can also describe that in json notation (and generate questions, and get information).
 
+(Note that we can write functions bodies like code that takes objects (he he), or use approximations based on machine learning)
+
 So we can build text-based rules (and functions).
 
 That will work better than traditional aproaches because we have context synonyms and other "syntaxis shugar" inside our Q&A net.
+
