@@ -1,5 +1,5 @@
 # BAC
-Not a Big hAdron Collider, its simple description of Build A Quastions technique
+Not a Big hAdron Collider, its simple description of Build A Questions technique
 
 ## What about objects and the properties of objects?
 
