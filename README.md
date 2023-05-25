@@ -33,3 +33,4 @@ So we can build text-based rules (and functions).
 
 That will work better than traditional aproaches because we have context synonyms and other "syntaxis shugar" inside our Q&A net.
 
+And we can also add changing of objects (counts and types). That is the function too ).
