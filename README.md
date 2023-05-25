@@ -9,7 +9,7 @@ And with Q&A it's possible to get almost any information about objects (what is 
 
 So defining the simpliest generator of questions based on json-like object descriptions is the trivial thing. (That's called reading :) )
 
-And we dont need to train transformer with 20 billion parameters to get information about anu objects (in final specification or in design rules).
+And we dont need to train transformer with 20 billion parameters to get information about any objects (in final specification or in design rules).
 
 We can extract any data about objects and states with questions.
 
@@ -20,7 +20,7 @@ We can extract any data about objects and states with questions.
 We have defined primitives (with parameters). 
 And text rules (with descriptions of positive and negative examples, where properties of objects are described).
 
-Most funny and "unthinkable" thing is that rules consists of objects, and rules are actually is objects too :).
+Most funny and "unthinkable" thing is that rules consist of objects, and rules are actually is objects too :).
 
 So we can build a basic abstractions (sizes/forces/etc), rules, based on json, and read all specifications. And make even complex rules (with objects and operators).
 
