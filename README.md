@@ -7,6 +7,14 @@ Not a Big hAdron Collider, its simple description of Build A Questions technique
 Again, there are many benchmarks for Q&A. And nowadays, neural networks with a 30 mb size can find answers better than humans.
 And with Q&A it's possible to get almost any information about objects (what is the **color** of **object_name**).
 
+It takes two modules to do that - first module projects objects to syntax tree:
+**{book {num_of_pages = 10, color = white, author=null}}** - **white book with 10 pages**
+the second one - builds a question to properties 
+**{book {num_of_pages = 10, color = white, author=null}}**, - **Who is the author of white book with 10 pages?**
+Note that we can ask many questions, and even incorrect ones (that will lead us to incorrect results), so we need add some attributes (to define right question for that item). (Whenwolf)
+
+After all of that will be completed - we can extract data about all defined objects and their properties.
+
 So defining the simpliest generator of questions based on json-like object descriptions is the trivial thing. (That's called reading :) )
 
 And we dont need to train transformer with 20 billion parameters to get information about any objects (in final specification or in design rules).
