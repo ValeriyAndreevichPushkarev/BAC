@@ -8,9 +8,15 @@ Again, there are many benchmarks for Q&A. And nowadays, neural networks with a 3
 And with Q&A it's possible to get almost any information about objects (what is the **color** of **object_name**).
 
 It takes two modules to do that - first module projects objects to syntax tree:
+
 **{book {num_of_pages = 10, color = white, author=null}}** - **white book with 10 pages**
+
 the second one - builds a question to properties 
+
 **{book {num_of_pages = 10, color = white, author=null}}**, - **Who is the author of white book with 10 pages?**
+
+
+
 Note that we can ask many questions, and even incorrect ones (that will lead us to incorrect results), so we need add some attributes (to define right question for that item). (Whenwolf)
 
 After all of that will be completed - we can extract data about all defined objects and their properties.
