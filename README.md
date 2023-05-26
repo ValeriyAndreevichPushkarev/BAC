@@ -41,11 +41,12 @@ So we can build a basic abstractions (sizes/forces/etc), rules, based on json, a
 Also, we need to add some functions that describe relations between objects (size, positions, and other connections). 
 And detect them. Note that we can also describe that in json notation (and generate questions, and get information).
 
-(Note that we can write functions bodies like code that takes objects (he he), or use approximations based on machine learning)
+(Note that we can write functions bodies like code that takes objects (he he), or use approximations based on machine learning, or even build them from primitives (DreamCoder, DARPA))
 
 So we can build text-based rules (and functions).
 
 That will work better than traditional aproaches because we have context synonyms and other "syntaxis shugar" inside our Q&A net.
+And we can get all objects, functions and other primitives on home PC in minutes. (Even without using of supercomputer)
 
 And we can also add changing of objects (counts and types). That is the function too ).
 
