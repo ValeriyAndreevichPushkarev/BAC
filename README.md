@@ -48,3 +48,11 @@ So we can build text-based rules (and functions).
 That will work better than traditional aproaches because we have context synonyms and other "syntaxis shugar" inside our Q&A net.
 
 And we can also add changing of objects (counts and types). That is the function too ).
+
+
+## What with levels of abstractions? ##
+
+
+Abstraction can be represented as Sets of objects that translates with some function to another object (and back). Directly with properties mapping or in a complex way.
+If we can define translation functions with a few examples (or use approximation based on machine learning) its not hard to build a hierarcy of abstraction levels.
+And define heuristics/constrains and result properties on any level of abstraction.
