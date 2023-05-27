@@ -1,5 +1,5 @@
 # BAC
-Not a Big hAdron Collider, its simple description of Build A Questions technique
+Not a Big hAdron Collider, its simple description of **Build A Questions technique**
 
 ## What about objects and the properties of objects?
 
@@ -19,7 +19,7 @@ the second one - builds a question to properties
 
 Note that we can ask many questions, and even incorrect ones (that will lead us to incorrect results), so we need add some attributes (to define right question for that item). (Whenwolf)
 
-After all of that will be completed - we can extract data about all defined objects and their properties.
+After all of that will be completed - we can extract **data about all defined objects** and their properties.
 
 So defining the simpliest generator of questions based on json-like object descriptions is the trivial thing. (That's called reading :) )
 
