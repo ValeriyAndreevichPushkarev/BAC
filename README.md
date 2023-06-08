@@ -59,4 +59,4 @@ If we can define translation functions with a few examples (or use approximation
 And define heuristics/constrains and result properties on any level of abstraction.
 
 (Simple bidirectional A* like DreamCoder with more filters, NLU, more computing power, reversible functions looks like AGI :) (that based mostly on explainable machine learning))
-Omg, someday I will have my initials on top-100 supercomputers xD
+Omg, someday I will have my initials on top-100 supercomputers xD And everywhere there will be symbols of my greatest achievement! xDDD
