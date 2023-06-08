@@ -41,7 +41,7 @@ So we can build a basic abstractions (sizes/forces/etc), rules, based on json, a
 Also, we need to add some functions that describe relations between objects (size, positions, and other connections). 
 And detect them. Note that we can also describe that in json notation (and generate questions, and get information).
 
-(Note that we can write functions bodies like code that takes objects (he he), or use approximations based on machine learning, or even build them from primitives (DreamCoder, DARPA))
+(Note that we can write functions bodies like code that takes objects (he he), or use approximations based on machine learning, or even build them from primitives (DreamCoder, DARPA)). Even **Reading functions** can be developed (to get information for knowledge database).
 
 So we can build text-based rules (and functions).
 
@@ -57,3 +57,5 @@ And we can also add changing of objects (counts and types). That is the function
 Abstraction can be represented as Sets of objects that translates with some function to another object (and back). Directly with properties mapping or in a complex way.
 If we can define translation functions with a few examples (or use approximation based on machine learning) its not hard to build a hierarcy of abstraction levels.
 And define heuristics/constrains and result properties on any level of abstraction.
+
+
