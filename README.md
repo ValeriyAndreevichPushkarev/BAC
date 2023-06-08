@@ -58,7 +58,7 @@ Abstraction can be represented as Sets of objects that translates with some func
 If we can define translation functions with a few examples (or use approximation based on machine learning) its not hard to build a hierarcy of abstraction levels.
 And define heuristics/constrains and result properties on any level of abstraction.
 
-(Simple bidirectional A* like DreamCoder with more filters, NLU, more computing power, reversible functions looks like AGI :) (that based mostly on explainable machine learning))
+(Simple bidirectional A* like **DreamCoder** with more filters, NLU, more computing power, reversible functions looks like AGI :) (that based mostly on explainable machine learning))
 
 Omg, someday I will have my initials on top-100 supercomputers xD 
 
