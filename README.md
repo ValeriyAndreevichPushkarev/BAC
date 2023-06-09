@@ -23,7 +23,7 @@ After all of that will be completed - we can extract **data about all defined ob
 
 So defining the simpliest generator of questions based on json-like object descriptions is the trivial thing. (That's called reading :) )
 
-And we dont need to train transformer with 20 billion parameters to get information about any objects (in final specification or in design rules).
+And we dont need to train transformer with 20 billion parameters to get information about **any objects** (in final specification or in design rules).
 
 We can extract any data about objects and states with questions.
 
