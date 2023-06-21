@@ -27,6 +27,7 @@ And we dont need to train transformer with 20 billion parameters to get informat
 
 We can extract any data about objects and states with questions.
 
+With **Word2Vec** we can extract data at about 1-2 Gbps (using a dictionary and a small neural net). Or about 5 Wikipedia dumps per minute :)
 
 ## What with rules (functions) and so on?
 
