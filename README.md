@@ -50,8 +50,10 @@ And we can get all objects, functions and other primitives on home PC in minutes
 And we can also add changing of objects (counts and types). That is the function too ).
 
 So, basically on Enrichment stage we need extract all typical steps from the domain(s), 
-try to find source data from the result
-(steps/functions and reversible functions, and so on).
+try to find source data from the result,
+(steps/functions and reversible functions),
+apply composition/decomposition,
+and so on.
 
 That can be used with transformers too.
 
